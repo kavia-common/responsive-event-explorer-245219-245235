@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/tmp/code-generation/responsive-event-explorer-245219-245235/events_backend"
+}
